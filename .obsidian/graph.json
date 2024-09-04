@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Организации/Законные  ",
+      "color": {
+        "a": 1,
+        "rgb": 2818558
+      }
+    },
+    {
+      "query": "path:Организации/НеЗаконные  ",
+      "color": {
+        "a": 1,
+        "rgb": 16718362
+      }
+    },
+    {
+      "query": "path:Организации/ПолуЗаконные  ",
+      "color": {
+        "a": 1,
+        "rgb": 16768568
+      }
+    },
+    {
+      "query": "path:\"Виды Деятельности\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13397241
+      }
+    },
+    {
+      "query": "path:Правила/Магия  ",
+      "color": {
+        "a": 1,
+        "rgb": 3340283
+      }
+    },
+    {
+      "query": "path:Правила/Персонаж  ",
+      "color": {
+        "a": 1,
+        "rgb": 7798968
+      }
+    },
+    {
+      "query": "path:Районы  ",
+      "color": {
+        "a": 1,
+        "rgb": 812544
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.343564814814815,
+  "repelStrength": 20,
+  "linkStrength": 0.611111111111111,
+  "linkDistance": 500,
+  "scale": 0.0744239781515782,
+  "close": true
+}

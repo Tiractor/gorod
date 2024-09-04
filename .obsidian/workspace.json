@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "ef3324dc7b8ce488",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4676a37b110e7c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2dba57c820dd505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Организации/Законные/Государство/Аристократия/Пригородный/Князья Вишневецкие.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "3b622faea461785e"
+          }
+        ]
+      },
+      {
+        "id": "721019b4294d13eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9207fe61d5e3d6af",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Организации/Законные/Государство/Аристократия/Пригородный/Князья Вишневецкие.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000002,
+                  "close": false
+                }
+              }
+            },
+            "group": "3b622faea461785e"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7245b1711b2969fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9569fea5d558790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e19f834e9e90363",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f51097184026f6ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "871b17a798ae2d27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.49999618530273
+  },
+  "right": {
+    "id": "be2f87cc4d9f9c36",
+    "type": "split",
+    "children": [
+      {
+        "id": "d71cc2230eb3bf97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c5c371d32553623",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Организации/Законные/Государство/Аристократия/Пригородный/Князья Вишневецкие.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f82652dc17e46685",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Организации/Законные/Государство/Аристократия/Пригородный/Князья Вишневецкие.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4ae92a0cdcbd02e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8c564d8a2df09aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Организации/Законные/Государство/Аристократия/Пригородный/Князья Вишневецкие.md"
+              }
+            }
+          },
+          {
+            "id": "fb22cc72fcf17a4b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c2dba57c820dd505",
+  "lastOpenFiles": [
+    "Pasted image 20240709231319.png",
+    "Организации/Законные/Государство/Аристократия/Пригородный/Князья Вишневецкие.md",
+    "Дополнительные/Лояльный.md",
+    "Дополнительные/Мятежный.md",
+    "Дополнительные/Скрытый Антагонист.md",
+    "Районы/Район.md",
+    "Районы/Р-н Сортов.md",
+    "Организации/Законные/Производство/Мебельный Завод «Скворечник».md",
+    "Правила/Магия/Компоненты/Школы/Ограниченная/Врат.md",
+    "Правила/Магия/Компоненты/Школы/НадШколы/Технологий.md",
+    "Правила/Магия/Компоненты/Школы/НадШколы/Общая.md",
+    "Правила/Магия/Компоненты/Школы/НадШколы/Ограниченная.md",
+    "Правила/Магия/Компоненты/Школы/НадШколы/Стихий.md",
+    "Правила/Магия/Компоненты/Школы/Маскировки/Света и Тьмы.md",
+    "Правила/Персонаж/Шаблоны/Касты/Медная Кровь.md",
+    "Правила/Персонаж/Шаблоны/Касты/Дети Звезд. Высокорожденные..md",
+    "Правила/Персонаж/Шаблоны/Касты/Серебряная Кровь.md",
+    "Правила/Персонаж/Шаблоны/Касты/Проклятая Кровь.md",
+    "Правила/Персонаж/Шаблоны/Касты/Златая Кровь/Аристократия. Златая кровь..md",
+    "Правила/Персонаж/Характеристики/Вторичные/Воля (Will).md",
+    "Правила/Персонаж/Характеристики/Вторичные/Восприятие (Восп, Per).md",
+    "Правила/Персонаж/Черты/Преимущества/Харизма.md",
+    "Правила/Персонаж/Черты/Статус.md",
+    "Правила/Персонаж/Шаблоны/Касты/Златая Кровь/Северная Аристократия.md",
+    "Районы/Р-н Северный.md",
+    "Правила/Персонаж/Шаблоны/Касты/Златая Кровь/Старые Аристократы.md",
+    "Правила/Персонаж/Черты/Недостатки/Причуды",
+    "Правила/Персонаж/Черты/Недостатки",
+    "Организации/Законные/Услуги/Досуг/Рестораны",
+    "Организации/Законные/Услуги/Досуг/Ночные Клубы",
+    "Организации/Законные/Услуги/Досуг",
+    "Организации/Законные/Услуги/Питание",
+    "Организации/Законные/Услуги/Магазины",
+    "Организации/Законные/Государство/Аристократия/Пригородный",
+    "Организации/Законные/Государство/Аристократия/Свинюшья",
+    "Организации/Законные/Государство/Аристократия/Сортовская",
+    "Дополнительные/Изображения/Pasted image 20240629045934.png",
+    "Дополнительные/Изображения/Pasted image 20240629050707.png",
+    "Дополнительные/Изображения/Pasted image 20240629050446.png",
+    "Дополнительные/Изображения/Pasted image 20240629195501.png",
+    "Дополнительные/Изображения/Pasted image 20240629051254.png",
+    "Дополнительные/Изображения/Pasted image 20240629051203.png",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Pasted image 20240612014008.png"
+  ]
+}
